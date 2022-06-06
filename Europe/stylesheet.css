@@ -1,0 +1,26 @@
+/* Europe stylesheet */
+
+/*Set the background colour */
+
+body {
+  background-color: rgb(127, 127, 127);
+  color: rgb(255, 255, 255)
+}
+
+/* Set h1 heading format*/
+h1  {
+  color: rgb(50, 50, 50);
+  font-family: Arial, Calibri, sans-serif;
+}
+p {
+  font-family: Arial, sans-serif;
+}
+
+/* Formating Links */
+a {
+  color: rgb(50, 50, 255);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
