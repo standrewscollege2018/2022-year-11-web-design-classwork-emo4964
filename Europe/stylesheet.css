@@ -1,5 +1,10 @@
 /* Europe stylesheet */
 
+/* Set all padding and margin to zero */
+* {
+  padding: 0px;
+  margin: 0px;
+}
 /*Set the background colour */
 
 body {
@@ -11,9 +16,13 @@ body {
 h1  {
   color: rgb(50, 50, 50);
   font-family: Arial, Calibri, sans-serif;
+  margin-top: 35px;
+  margin-bottom: 20px;
 }
 p {
   font-family: Arial, sans-serif;
+  margin-bottom: 20px;
+  line-height: 15px;
 }
 
 /* Formating Links */
