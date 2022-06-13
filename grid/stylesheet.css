@@ -1,0 +1,22 @@
+body{
+  color: white;
+  background-color: rgb(0,0,0);
+}
+
+.nav_bar{
+  background-color: red;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.left-content {
+  background-color: orange;
+}
+
+.right-content {
+  text-align: right;
+  background-color: yellow;
+}
